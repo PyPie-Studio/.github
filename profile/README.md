@@ -10,7 +10,7 @@
 <br />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍_Location-Iraq-2D333B?style=for-the-badge" alt="Location: Iraq" />
+  <a href="https://github.com/PyPie-Studio"><img src="https://img.shields.io/badge/Follow-PyPie--Studio-181717?style=for-the-badge&logo=github" alt="Follow PyPie Studio" /></a>
   <a href="mailto:pypiestudio@gmail.com"><img src="https://img.shields.io/badge/Email-pypiestudio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linktr.ee/pypiestudio"><img src="https://img.shields.io/badge/Linktree-PyPie--Studio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
   <a href="#-open-source"><img src="https://img.shields.io/badge/Open_Source-MIT-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" /></a>
@@ -22,7 +22,7 @@
 
 ## 🏛️ About
 
-**PyPie Studio** is an independent software engineering studio based in Iraq, building self-contained, production-grade tools for system administrators, network engineers, educators, and businesses. Our stack is rooted in the **.NET ecosystem** — from NativeAOT desktop applications to full-stack enterprise platforms — with a strict commitment to **zero third-party bloat**, **offline-first architectures**, and **local-only data sovereignty**.
+**PyPie Studio** is an independent software engineering studio building self-contained, production-grade tools for system administrators, network engineers, educators, and businesses. Our stack is rooted in the **.NET ecosystem** — from NativeAOT desktop applications to full-stack enterprise platforms — with a strict commitment to **zero third-party bloat**, **offline-first architectures**, and **local-only data sovereignty**.
 
 We ship software that works out of the box, runs without cloud dependencies, and respects the user.
 
@@ -42,6 +42,7 @@ We ship software that works out of the box, runs without cloud dependencies, and
 [![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-12.1-8B44AC?style=flat-square)](https://github.com/PyPie-Studio/NodeRadar-Pro)
 [![NativeAOT](https://img.shields.io/badge/NativeAOT-Compiled-00C853?style=flat-square)](https://github.com/PyPie-Studio/NodeRadar-Pro)
 [![License](https://img.shields.io/badge/License-Freeware-blue?style=flat-square)](https://github.com/PyPie-Studio/NodeRadar-Pro)
+[![Latest Release](https://img.shields.io/github/v/release/PyPie-Studio/NodeRadar-Pro?style=flat-square&color=2563eb&label=Release)](https://github.com/PyPie-Studio/NodeRadar-Pro/releases/latest)
 
 A low-latency network reconnaissance and monitoring suite built for IT professionals. Discover every device on your LAN in seconds, track uptime with millisecond precision, and detect unauthorized connections in real time — all from a single native binary with zero installation overhead.
 
@@ -52,7 +53,7 @@ A low-latency network reconnaissance and monitoring suite built for IT professio
 * 🔐 **Encrypted Local Storage** — LiteDB with AES-256 encryption; absolutely zero data leaves the machine
 * ⚡ **NativeAOT Binary** — Sub-second cold start, low memory footprint, no .NET runtime installation required
 
-[**Download Release**](https://github.com/PyPie-Studio/NodeRadar-Pro) • [**Source Repository**](https://github.com/PyPie-Studio/NodeRadar-Pro)
+[**⬇️ Download Latest Release (Setup .exe)**](https://github.com/PyPie-Studio/NodeRadar-Pro/releases/latest) • [**📖 Source Repository**](https://github.com/PyPie-Studio/NodeRadar-Pro) • [**📋 Release Notes**](https://github.com/PyPie-Studio/NodeRadar-Pro/releases)
 
 ---
 
@@ -63,6 +64,7 @@ A low-latency network reconnaissance and monitoring suite built for IT professio
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1_&_7+-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/PyPie-Studio/unslop-windows)
 [![Windows 11](https://img.shields.io/badge/Windows_11-23H2_|_24H2_|_25H2+-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/PyPie-Studio/unslop-windows)
 [![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/PyPie-Studio/unslop-windows/blob/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/PyPie-Studio/unslop-windows?style=flat-square&color=3DA639&label=Release)](https://github.com/PyPie-Studio/unslop-windows/releases/latest)
 [![CI](https://img.shields.io/github/actions/workflow/status/PyPie-Studio/unslop-windows/ci.yml?style=flat-square&label=Quality%20Gate)](https://github.com/PyPie-Studio/unslop-windows/actions)
 
 The only Windows debloater that **guarantees zero broken updates**. 18 modular stages neutralize Copilot, Recall AI, telemetry, Cortana, widgets, and bloatware — while strictly protecting the component store, Windows Update pipeline, Microsoft Store, and critical runtimes.
@@ -74,7 +76,7 @@ The only Windows debloater that **guarantees zero broken updates**. 18 modular s
 * 🧪 **7-Pillar Quality Gate** — AST validation, PSScriptAnalyzer, CRLF integrity, Pester test suite, and CI enforcement
 * 🔒 **Zero Binaries, Zero Cloud** — Pure PowerShell + Batch. No compiled executables, no downloads, no network calls
 
-[**Download Latest**](https://github.com/PyPie-Studio/unslop-windows/releases) • [**Source Repository**](https://github.com/PyPie-Studio/unslop-windows) • [**Changelog**](https://github.com/PyPie-Studio/unslop-windows/blob/main/CHANGELOG.md)
+[**⬇️ Download Latest Release**](https://github.com/PyPie-Studio/unslop-windows/releases/latest) • [**📖 Source Repository**](https://github.com/PyPie-Studio/unslop-windows) • [**📋 Changelog**](https://github.com/PyPie-Studio/unslop-windows/blob/main/CHANGELOG.md)
 
 ---
 
@@ -127,15 +129,20 @@ The only Windows debloater that **guarantees zero broken updates**. 18 modular s
 
 <br />
 
-**Built with conviction in Iraq 🇮🇶**
+### Support & Community
 
-If our tools solve a real problem for you, ⭐ **star the repo** — it's the best signal that the work matters.
+If our tools solve a real problem for you, consider supporting the work:
+
+⭐ **Star the repositories** to boost visibility  
+🔔 **[Follow PyPie Studio on GitHub](https://github.com/PyPie-Studio)** to stay updated on new releases and security tools  
 
 <br />
 
-[![Email](https://img.shields.io/badge/pypiestudio@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pypiestudio@gmail.com)
-&nbsp;&nbsp;
-[![Linktree](https://img.shields.io/badge/linktr.ee%2Fpypiestudio-39E09B?style=flat-square&logo=linktree&logoColor=white)](https://linktr.ee/pypiestudio)
+[![Follow](https://img.shields.io/badge/Follow-PyPie--Studio-181717?style=for-the-badge&logo=github)](https://github.com/PyPie-Studio)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-pypiestudio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pypiestudio@gmail.com)
+&nbsp;
+[![Linktree](https://img.shields.io/badge/Linktree-PyPie--Studio-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/pypiestudio)
 
 <br />
 <br />
