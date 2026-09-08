@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/PyPie-Studio"><img src="https://img.shields.io/badge/Follow-PyPie--Studio-181717?style=for-the-badge&logo=github" alt="Follow PyPie Studio" /></a>
+  <a href="https://www.instagram.com/pypiestudio"><img src="https://img.shields.io/badge/Instagram-@pypiestudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @pypiestudio" /></a>
   <a href="mailto:pypiestudio@gmail.com"><img src="https://img.shields.io/badge/Email-pypiestudio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linktr.ee/pypiestudio"><img src="https://img.shields.io/badge/Linktree-PyPie--Studio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
   <a href="#-open-source"><img src="https://img.shields.io/badge/Open_Source-MIT-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source" /></a>
@@ -135,10 +136,13 @@ If our tools solve a real problem for you, consider supporting the work:
 
 ⭐ **Star the repositories** to boost visibility  
 🔔 **[Follow PyPie Studio on GitHub](https://github.com/PyPie-Studio)** to stay updated on new releases and security tools  
+📸 **[Follow @pypiestudio on Instagram](https://www.instagram.com/pypiestudio)** for updates, announcements, and development progress  
 
 <br />
 
 [![Follow](https://img.shields.io/badge/Follow-PyPie--Studio-181717?style=for-the-badge&logo=github)](https://github.com/PyPie-Studio)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@pypiestudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pypiestudio)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-pypiestudio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pypiestudio@gmail.com)
 &nbsp;
