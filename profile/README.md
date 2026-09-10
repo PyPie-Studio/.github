@@ -60,7 +60,7 @@ A low-latency network reconnaissance and monitoring suite built for IT professio
 
 ### 🛡️ [unslop-windows](https://github.com/PyPie-Studio/unslop-windows)
 
-> **Safe-Tier Windows 11 Debloater, Telemetry Neutralizer & Privacy Hardener**
+> **Safe-Tier Windows 11/10 Debloater, Telemetry Neutralizer & Privacy Hardener**
 
 [![PowerShell](https://img.shields.io/badge/PowerShell-5.1_&_7+-5391FE?style=flat-square&logo=powershell&logoColor=white)](https://github.com/PyPie-Studio/unslop-windows)
 [![Windows 11](https://img.shields.io/badge/Windows_11-23H2_|_24H2_|_25H2+-0078D4?style=flat-square&logo=windows11&logoColor=white)](https://github.com/PyPie-Studio/unslop-windows)
