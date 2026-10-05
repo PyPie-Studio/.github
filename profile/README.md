@@ -5,7 +5,7 @@
 <br />
 <br />
 
-### Self-contained .NET tools for sysadmins and network engineers. Native binaries, local-only data, no cloud dependencies.
+### Self-contained Software. Native binaries, local-only data, no cloud dependencies.
 
 <br />
 
@@ -23,9 +23,9 @@
 
 ## About
 
-**PyPie Studio** is a small software engineering studio building self-contained tools for system administrators, network engineers and IT departments. The stack runs on **.NET 10** — NativeAOT desktop apps, ASP.NET Core backends and Avalonia cross-platform UIs.
+**PyPie Studio** is a small software engineering studio building self-contained software for everyone. The stack runs on **.NET 10** — NativeAOT desktop apps, ASP.NET Core backends and Avalonia cross-platform UIs.
 
-Everything ships as a single binary or installer. No cloud accounts, no telemetry, no runtime prerequisites. Data stays on the machine it was created on, encrypted at rest with AES-256.
+Everything ships as a single binary or installer. No cloud accounts, no telemetry, no runtime prerequisites. Data stays on the machine it was created on, encrypted with AES-256.
 
 ---
 
