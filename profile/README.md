@@ -10,7 +10,8 @@
 <br />
 
 <p align="center">
-  <a href="https://github.com/PyPie-Studio"><img src="https://img.shields.io/badge/GitHub-PyPie--Studio-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://pypiestudio.com"><img src="https://img.shields.io/badge/Website-pypiestudio.com-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/PyPie-Studio"><img src="https://img.shields.io/badge/GitHub-PyPie--Studio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.instagram.com/pypiestudio"><img src="https://img.shields.io/badge/Instagram-@pypiestudio-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:pypiestudio@gmail.com"><img src="https://img.shields.io/badge/Email-pypiestudio%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linktr.ee/pypiestudio"><img src="https://img.shields.io/badge/Linktree-PyPie--Studio-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" /></a>
